@@ -1,0 +1,22 @@
+{
+  "name": "shiba",
+  "version": "0.0.0",
+  "description": "Doge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RickyCook/shiba.git"
+  },
+  "author": "Ricky Cook",
+  "contributors": [
+    {"name": "Cade Diehm"},
+    {"name": "Ignatius Gilfedder"}
+  ],
+  "bugs": {
+    "url": "https://github.com/RickyCook/shiba/issues"
+  },
+  "homepage": "https://github.com/RickyCook/shiba"
+}
